@@ -1,0 +1,6 @@
+metadata:
+  name: camel-assignment
+spec:
+  ports:
+    - port: 80
+      targetPort: 8080

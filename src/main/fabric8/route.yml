@@ -1,0 +1,6 @@
+metadata:
+  name: camel-assignment
+spec:
+  to:
+    kind: Service
+    name: camel-assignment

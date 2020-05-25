@@ -1,0 +1,23 @@
+
+mysql:
+  service:
+   
+    name:     mysql
+    
+    database: sampledb
+
+spring:
+  # Spring JDBC configuration
+  datasource:
+    url:      jdbc:hsqldb:mem:sampledb
+    username: sa
+    password: 
+
+  # Spring Data JPA configuration
+  jpa:
+    hibernate:
+
+      ddl-auto: create-drop
+    show-sql: true
+
+
