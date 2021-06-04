@@ -16,7 +16,7 @@
         <version.camel>2.18.2</version.camel>
         <hssql.version>2.3.5</hssql.version>
         <mysql.version>5.1.42</mysql.version>
-        <apache.http.version>4.5.12</apache.http.version>
+        <apache.http.version>4.5.13</apache.http.version>
         <fabric8.version>3.0.8</fabric8.version>
         <fabric8.maven.plugin.version>3.5.34</fabric8.maven.plugin.version>
 
