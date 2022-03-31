@@ -12,7 +12,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <maven-compiler-plugin.version>3.6.0</maven-compiler-plugin.version>
-        <spring-boot-version>1.4.2.RELEASE</spring-boot-version>
+        <spring-boot-version>2.5.12</spring-boot-version>
         <version.camel>2.18.2</version.camel>
         <hssql.version>2.3.5</hssql.version>
         <mysql.version>5.1.42</mysql.version>
